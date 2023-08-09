@@ -1,6 +1,6 @@
 // Função para enviar mensagem e receber resposta da API
 async function sendMessageToChatGPT(message) {
-  const apiKey = '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'; // Substitua pelo seu próprio chave de API
+  const apiKey = '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'; // Substitua pelo seu próprio chave de API
   const endpoint = 'https://api.openai.com/v1/chat/completions';
 
   const headers = {
